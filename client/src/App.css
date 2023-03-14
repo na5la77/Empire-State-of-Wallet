@@ -15,3 +15,12 @@
   margin-top: -2px;
   font-size: 25px;
 }
+.instructions{
+  text-align: center;
+}
+.highlited-companies{
+  border-width: 2px;
+  border-radius: 4px;
+  background-color:  rgb(15, 146, 202);
+  padding: 4px;
+}

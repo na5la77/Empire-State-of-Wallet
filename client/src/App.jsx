@@ -68,10 +68,12 @@ function App() {
       </div>
       <div className="instructions">
         <span>
-          Transactions highlighted in red are for companies owned by Jeff Bezos,
+          Companies related to Jeff Bezos:
         </span>
         <br />
         <span>{bezosRelated.toString()}</span>
+        <br/>
+        <span className="highlited-companies">The transactions related to these companies will have a teal shadow</span>
       </div>
 
       {Object.entries(transactions).map(([key, value]) => {
