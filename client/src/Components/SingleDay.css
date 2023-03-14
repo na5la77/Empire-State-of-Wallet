@@ -1,0 +1,15 @@
+.single-day-transactions {
+  display: grid;
+  grid-template-columns: repeat(4, 10fr);
+  column-gap: 20px;
+}
+button{
+  background-color: grey;
+  border-radius: 1rem;
+  border-color: grey;
+  font-weight: bolder;
+  height: 50px;
+  width: 200px;
+  margin: 5px;
+  cursor: pointer;
+}

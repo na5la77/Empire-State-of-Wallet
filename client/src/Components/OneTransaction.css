@@ -1,0 +1,32 @@
+.transaction-card {
+  padding: 6px;
+  cursor: pointer;
+}
+
+.single-transaction {
+  background-color: rgb(225, 225, 225);
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  box-shadow: 5px 5px 10px rgb(100, 100, 100);
+  font-weight: 650;
+}
+.single-transaction-bezos {
+  background-color: rgb(225, 225, 225);
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  box-shadow: 5px 5px 10px rgb(15, 146, 202);
+  font-weight: 650;
+}
+.trans-id {
+  text-align: left;
+  font-weight: 380;
+margin: auto;}
+.trans-details {
+  margin-top: auto;
+  padding-left: 1vh;
+  font-size: 15px;
+}
