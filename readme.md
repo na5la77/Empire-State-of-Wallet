@@ -19,7 +19,10 @@ Clone the project
 ```
 
 To run this project locally cd into the server folder, and run
-
+```bash
+  npm install
+```
+then
 ```bash
   npm start
 ```
@@ -28,6 +31,10 @@ it will run on port 5002.
 
 
 then, cd into the client folder and run
+```bash
+  npm install
+```
+then
 ```bash
   npm run dev
 ``` 
